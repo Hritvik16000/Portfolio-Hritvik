@@ -8,7 +8,7 @@ export default function About(){
             <div className="card bg-light text-light m-3 border-0">
             <div className="card-header border-0 about"><h1>About Me</h1></div>
   <div className="card-body bg-light text-dark about-intro">
-    <p className="card-text text-center m-5">Hey, I'm Hritvik Dadhich, an aspiring developer with a degree in Computer Science Engineering. I'am currently learning new skills with a vision of becoming better at what I do.
+    <p className="card-text text-center m-5">Hey, I'm Hritvik Dadhich, an aspiring developer with a degree in Computer Science Engineering. I'm currently learning new skills with a vision of becoming better at what I do.
     I like Web Development and to Create a new Interfaces.</p>
   </div>
   <div className="resume">
