@@ -19,7 +19,7 @@ export default function Intro(){
                         <div className="card-body bg-light text-light content">
                             <h1 className="card-title">I'm Hritvik Dadhich</h1>
                             <p className="card-text">Full Stack Developer</p>
-                            <p className="card-text">I'am currently pursuing masters in AI and Robotics from United Kingdom</p>
+                            <p className="card-text">I'm currently pursuing masters in AI and Robotics from United Kingdom</p>
                             <div className="icon">
                             <a className="link" href="https://www.linkedin.com/feed/"
                             target="_blank" rel="noreferrer">
